@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "439286358185",
+    "project_id": "phoneauth-3c78e",
+    "storage_bucket": "phoneauth-3c78e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439286358185:android:b08c2636455cdf162049b8",
+        "android_client_info": {
+          "package_name": "com.example.eme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ck57qiyb2H9yOhP435ocOvhzHM6tDHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439286358185:android:a291211add396f9c2049b8",
+        "android_client_info": {
+          "package_name": "com.example.emergency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ck57qiyb2H9yOhP435ocOvhzHM6tDHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439286358185:android:97efb83ac04a4bde2049b8",
+        "android_client_info": {
+          "package_name": "com.example.sos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ck57qiyb2H9yOhP435ocOvhzHM6tDHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
